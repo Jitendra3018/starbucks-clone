@@ -373,6 +373,10 @@ section a {
 	transform: translateX(100%);
 }
 
+.no-scroll {
+	overflow: hidden;
+}
+
 /* Media Queries */
 @media only screen and (max-width: 960px) {
 	.text-xl {
